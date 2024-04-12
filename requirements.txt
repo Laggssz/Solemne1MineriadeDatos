@@ -1,0 +1,7 @@
+Librerias utilizadas con python 3.12.2
+
+import matplotlib.pyplot as plt 
+from google.cloud import bigquery
+import pandas as pd
+from datetime import datetime
+import numpy as np
