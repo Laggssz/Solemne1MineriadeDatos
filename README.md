@@ -23,7 +23,7 @@ Para esta parte se realizo un estudio de la brecha temporal entre la tasa de vac
 Por lo tanto concluyendo, que a lo mucho,la aparicion de efectos secundarios se da entre semanas y par de meses, ya que la presencia de cietos peaks en un grafico y en otro no, demuestra una leve diferencia en el comportamiento, pero no la suficiente para deducir que estos aparcen meses despues.
 
 Finalmente se comparo el porcentaje por region de personas con efectos secundarios , en la cual los resultados fueron dispares, donde ciertas reguiones tenian diferncias abismales con otras. 
-Este no deberia ser raro pero esperaba una distribucion mas equitativa por lo tanto se insinua que existen ciertos factores que pudieron entregar este resultado, como por ejemplo demograficos, Alimentacion , tipo de vacuna que hace que ciertas regiones sean mas suceptibles a efectos secundarios y otras no,
+Este no deberia ser raro pero esperaba una distribucion mas equitativa por lo tanto se insinua que existen ciertos factores que pudieron entregar este resultado, como por ejemplo demograficos, Alimentacion , tipo de vacuna que hace que ciertas regiones sean mas suceptibles a efectos secundarios y otras no.
 
 
 
