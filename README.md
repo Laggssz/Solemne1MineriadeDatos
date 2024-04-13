@@ -4,7 +4,7 @@ En esta parte se presentaran los resultados:
 Para poder seccionar de mejor forma, dividere los resultados en 3 diferentes secciones.
 
 
-# Tasa de Vacunacion en escalar Temporal
+# Tasa de Vacunacion en escala Temporal
 
 Uno de los primeros resultados, fue la visualizacion de el comportamiento de la tasa de vacunacion para cada uno de los estados de Australia.
 En donde se encontro una relacion superficial entre la distancia a la capital y el inicio de cada vacunacion. A pesar de esto hubo un dato que alejaba llegar a una relacion directa.
@@ -17,7 +17,7 @@ En cuanto a la vacunacion total, se llego a que no existe una correlacion entre 
 Siendo la zona con mas densidad de poblacion, la zona con menor tasa de vacunacion.
 A pesar de esto , igual se llego a que, la zona con la capital, fue la zona con mayor tasa de vacunacion , lo cual indica que en esa zona , fue donde hubo mas, propaganda, apoyo o incentivo por parte del govierno.
 
-# Efectos Secundrios
+# Efectos Secundarios
 
 Para esta parte se realizo un estudio de la brecha temporal entre la tasa de vacunacion y la de efectos secundarios, en la cual se obtuvo que la brecha es insignificante en estandares de años , ya que los graficos que se comparaban tenian el mismo comportamiento , siendo lo unico diferente su amplitud y ciertos peaks, pero a sin contar eso, el comportamiento era similar, ya que no se evidenciaban peaks en intervalos temporales donde la vacunacion se frenara.
 Por lo tanto concluyendo, que a lo mucho,la aparicion de efectos secundarios se da entre semanas y par de meses, ya que la presencia de cietos peaks en un grafico y en otro no, demuestra una leve diferencia en el comportamiento, pero no la suficiente para deducir que estos aparcen meses despues.
